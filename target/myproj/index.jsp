@@ -9,7 +9,7 @@
         <h1>Demo Project from Devops</h1>
         <h1>Nice day DEVOPS.....</h1>
         <h1>Good Day For You...!</h1>
-        <h1>Nice day DEVOPS.....</h1>
+        <h1>Nice day DEVOPS.....!</h1>
 
 
 <table width="50%" bgcolor="pink" align="center" border="2">
